@@ -1,0 +1,7 @@
+base_channel_size: 32
+decoder_class: !!python/name:__main__.Decoder ''
+encoder_class: !!python/name:__main__.Encoder ''
+height: 32
+latent_dim: 128
+num_input_channels: 1
+width: 32
